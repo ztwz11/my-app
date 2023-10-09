@@ -1,0 +1,22 @@
+/* ChatApp.css */
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%; /* Ensure the container takes full width */
+}
+
+.chat-list {
+  width: 20%;
+  box-sizing: border-box; /* Include padding and border in the width */
+}
+
+.chat-content {
+  width: 40%;
+  box-sizing: border-box; /* Include padding and border in the width */
+}
+
+.member-list {
+  width: 20%;
+  box-sizing: border-box; /* Include padding and border in the width */
+}

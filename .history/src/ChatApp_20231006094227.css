@@ -1,0 +1,10 @@
+/* ChatApp.css */
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.chat-content {
+  display: flex;
+}

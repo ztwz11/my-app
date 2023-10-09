@@ -1,0 +1,25 @@
+/* ChatApp.css */
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%; /* Ensure the container takes full width */
+}
+
+.chat-list {
+  width: 300px;
+  box-sizing: border-box; /* Include padding and border in the width */
+  border: 1px solid #000;
+}
+
+.chat-content {
+  width: 30%;
+  box-sizing: border-box; /* Include padding and border in the width */
+  border: 1px solid #000;
+}
+
+.member-list {
+  width: 300px;
+  box-sizing: border-box; /* Include padding and border in the width */
+  border: 1px solid #000;
+}
